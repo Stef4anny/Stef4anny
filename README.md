@@ -29,9 +29,8 @@ Atualmente estou focada no desenvolvimento **Front-end Web e Mobile**, utilizand
 ## 📈 O que estou aprendendo agora
 
 Atualmente aprofundando meus conhecimentos em:
-- React Native avançado
+- Javascript
 - Integração com APIs
-- Testes de componentes e unitários
 - Boas práticas de Clean Code
 
 ---
